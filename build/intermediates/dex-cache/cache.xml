@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b2795506a1116fca1797032a2c4c6650fbbad39e">
+        sha1="3e7e7caf68d7ecbaa9fc92edf33d37e0798f2d8c">
         <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11ab2cda5d9a0dd861f7818fc7fe4aeb354bb52c/classes.dex" />
     </item>
     <item
@@ -187,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d3aea06fca983b78433a617264449b8e5272295b">
+        sha1="5562751ebd4144a320173dd696d298c8f8892092">
         <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d48ebf5a6b7d97a39a71d7e1b944060a5ec274e0/classes.dex" />
     </item>
     <item
