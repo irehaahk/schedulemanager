@@ -12,12 +12,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_c9972e35048d98ed55f949baf0074d692e2c12e2/classes.dex" />
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_08325bbaeba6991b113e8083a7171bfe1387403f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_703a8d7603adb1a36ca363a6ccc9305822701ab6/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,6 +48,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_96bba0e8b635a297dd76d2eee9297dabf3d00be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2795506a1116fca1797032a2c4c6650fbbad39e">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11ab2cda5d9a0dd861f7818fc7fe4aeb354bb52c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -54,15 +81,6 @@
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c17b6824f44e5164fd3f49f2879db088cf7a269b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_b9ceb750d9edccec654201d0ce09cdcc181c13de/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,21 +111,120 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_37b93b5d371de67452419dd9bbccbacfd2f9c0ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
         <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_e36b1c0bfc67bea59d01ce3fa0c0ebd1eb0e9a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_900457c9d498be1865c61ac18211cdf1d8c22c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_0b8e0441c090ab66d7700162e904ec7506bf1166/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_c9972e35048d98ed55f949baf0074d692e2c12e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_c45d929b6eae41a5003af01c1e3f79d571b3c54e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_23a2554baa5d9dcb2dc69af47dfb2ae3e8cc3b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_2a243305cb0451233b8dd2015cc502503555b9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7b8b560ebfa6e7da97772471b63f4c8e94cffea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3aea06fca983b78433a617264449b8e5272295b">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d48ebf5a6b7d97a39a71d7e1b944060a5ec274e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_5b0568f74f65b4f34c60052ea4bb53ec1364dfbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_b9ceb750d9edccec654201d0ce09cdcc181c13de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_ba9216c0376a9f7d12348b14c2b780b969a2b7ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_37b93b5d371de67452419dd9bbccbacfd2f9c0ed/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,12 +237,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/danrowland/AndroidStudioProjects/scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_900457c9d498be1865c61ac18211cdf1d8c22c2c/classes.dex" />
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_e38ff1642d4e0791aed8ed8fe08093d0b88fb3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danrowland/schedulemanager/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/danrowland/schedulemanager/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_0b8d857f8fb804e99075ae47ac3826127f9fb575/classes.dex" />
     </item>
     <item
         is-multidex="true"

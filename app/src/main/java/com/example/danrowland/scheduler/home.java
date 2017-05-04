@@ -1,5 +1,6 @@
 package com.example.danrowland.scheduler;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -8,6 +9,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.EditText;
+
+import static android.provider.AlarmClock.EXTRA_MESSAGE;
 
 public class home extends AppCompatActivity {
 
@@ -26,6 +30,11 @@ public class home extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });*/
+    }
+
+    public void addeventdialogue(View view){
+        Intent intent = new Intent(this, AddEventActivity.class);
+        startActivity(intent);
     }
 
     @Override
