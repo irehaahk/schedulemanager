@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".AddEventActivity" />
-        <activity android:name=".currentSchedule"></activity>
+        <activity android:name=".currentSchedule" />
+        <activity android:name=".futureSchedule"></activity>
     </application>
 
 </manifest>
